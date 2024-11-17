@@ -20,43 +20,7 @@
   </url>
   
   <url>
-    <loc>https://www.shvury.com/box/nav/index.html</loc>
-    
-    <lastmod>2023-03-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.shvury.com/box/animation/index.html</loc>
-    
-    <lastmod>2023-03-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.shvury.com/box/gallery/index.html</loc>
-    
-    <lastmod>2023-03-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.shvury.com/life/music/index.html</loc>
-    
-    <lastmod>2023-03-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.shvury.com/life/games/index.html</loc>
     
     <lastmod>2023-03-21</lastmod>
     
@@ -74,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://www.shvury.com/life/movies/index.html</loc>
+    <loc>https://www.shvury.com/personal/bb/index.html</loc>
     
     <lastmod>2023-03-21</lastmod>
     
@@ -83,7 +47,34 @@
   </url>
   
   <url>
-    <loc>https://www.shvury.com/site/census/index.html</loc>
+    <loc>https://www.shvury.com/life/games/index.html</loc>
+    
+    <lastmod>2023-03-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.shvury.com/box/nav/index.html</loc>
+    
+    <lastmod>2023-03-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.shvury.com/box/gallery/index.html</loc>
+    
+    <lastmod>2023-03-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.shvury.com/life/movies/index.html</loc>
     
     <lastmod>2023-03-21</lastmod>
     
@@ -101,16 +92,7 @@
   </url>
   
   <url>
-    <loc>https://www.shvury.com/personal/bb/index.html</loc>
-    
-    <lastmod>2023-03-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.shvury.com/site/time/index.html</loc>
+    <loc>https://www.shvury.com/life/music/index.html</loc>
     
     <lastmod>2023-03-21</lastmod>
     
@@ -128,7 +110,25 @@
   </url>
   
   <url>
+    <loc>https://www.shvury.com/site/census/index.html</loc>
+    
+    <lastmod>2023-03-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.shvury.com/social/link/index.html</loc>
+    
+    <lastmod>2023-03-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.shvury.com/site/time/index.html</loc>
     
     <lastmod>2023-03-21</lastmod>
     
